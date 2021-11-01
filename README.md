@@ -18,6 +18,11 @@
 ## Tamarin
 
 * [Tamarin-Prover Manual](https://tamarin-prover.github.io/manual/tex/tamarin-manual.pdf) by The Tamarin Team
+* [An Analysis of the Transport Layer Security Protocol](https://www.isg.rhul.ac.uk/~kp/theses/TvdMthesis.pdf) by Thyla van der Merwe
+* [Tamarin Prover Introduction](https://www.youtube.com/watch?v=XptJG19hDcQ&ab_channel=DavidWong) by David Wong
+* [Symbolic verification of cryptographic protocols using Tamarin](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa18/slides/basin-lecture2.pdf) David Basin
+* [Teaching Materials for the Tamarin Prover](https://github.com/tamarin-prover/teaching) by The Tamarin Team
+
 
 ## General
 
