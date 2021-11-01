@@ -15,6 +15,10 @@
 * [How to install](https://cryptojedi.org/programming/jasmin.shtml) by Peter Schwabe
 * [Installation instructions](https://github.com/jasmin-lang/jasmin/wiki/Installation-instructions)
 
+## Tamarin
+
+* [Tamarin-Prover Manual](https://tamarin-prover.github.io/manual/tex/tamarin-manual.pdf) by The Tamarin Team
+
 ## General
 
 * [Cyber in Saclay -- Winter School in Cybersecurity](https://gdr-school.sciencesconf.org/resource/page/id/3)
