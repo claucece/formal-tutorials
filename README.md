@@ -7,6 +7,7 @@
 * [First EasyCrypt School and Workshop](https://software.imdea.org/projects/certicrypt/school.html)
 * [Summer school - EasyCrypt part 1 by François Dupressoir](https://www.youtube.com/watch?v=vEE84uuOX_Q)
 * [Summer school - EasyCrypt with Jasmin by Vincent Laporte & Benjamin Grégoire](https://www.youtube.com/watch?v=CStaNMsaot4)
+* [Easycrypt by Manuel Barbosa - Indocrypt](https://media.easycrypt.info/JasminECTutorial.mp4)
 
 ### Ambient logic
 
